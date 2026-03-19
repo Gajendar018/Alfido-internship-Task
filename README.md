@@ -1,49 +1,60 @@
-Alfido Tech – Data Analytics Internship
+# 🚀 Alfido Tech – Data Analytics Internship
 
-This repository showcases the projects I completed during my Data Analytics Internship at Alfido Tech, focusing on solving real-world business problems using data.
+This repository contains the projects completed during my **Data Analytics Internship at Alfido Tech**, focused on solving real-world business problems using data.
 
-📌 Internship Overview
+---
 
-Role: Data Analytics Intern
+## 📌 Internship Overview
 
-Focus: Data Cleaning, EDA, Visualization & Business Insights
+- **Role:** Data Analytics Intern  
+- **Focus:** Data Cleaning, EDA, Visualization & Insights  
+- **Objective:** Convert raw data into actionable business decisions  
 
-Goal: Transform raw data into meaningful insights for decision-making
+---
 
-🛠️ Tools & Skills
+## 🛠️ Tools & Technologies
 
-Languages: Python, SQL
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Tools:** Jupyter Notebook, Power BI  
 
-Libraries: Pandas, NumPy
+---
 
-Visualization: Matplotlib, Seaborn
+## 📂 Projects Portfolio
 
-Tools: Jupyter Notebook, Power BI
+### 🔹 1. Customer Behavior Analysis
+- Performed customer segmentation  
+- Identified high-value customers and patterns  
 
-📂 Projects Portfolio
-Project	Title	Status	Highlights
-01	Customer Behavior Analysis	✅ Completed	Performed segmentation & identified high-value customers
-02	Sales Performance Analysis	✅ Completed	Analyzed sales trends, KPIs & product performance
-03	Website Traffic Analysis	✅ Completed	Explored user activity, top content & geographic insights
-💡 Key Learnings
+### 🔹 2. Sales Performance Analysis
+- Analyzed sales trends and KPIs  
+- Identified top-performing products and regions  
 
-Learned how to clean and prepare real-world datasets
+### 🔹 3. Website Traffic Analysis
+- Explored user activity and engagement  
+- Analyzed geographic and content-based insights  
 
-Built KPIs and meaningful visualizations
+---
 
-Translated data into actionable business recommendations
+## 💡 Key Learnings
 
-Understood limitations of real datasets and adapted analysis
+- Cleaned and prepared real-world datasets  
+- Built KPIs and meaningful visualizations  
+- Converted data into business insights  
+- Adapted analysis based on dataset limitations  
 
-📈 What Makes This Special
+---
 
-Instead of just analyzing data, this project focuses on:
+## 📈 What Makes This Project Stand Out
 
-✔ Business-focused insights
-✔ Practical problem-solving
-✔ Clear and structured reporting
+- Focus on **business-driven insights**  
+- Strong **problem-solving approach**  
+- Clear and structured analysis  
 
-👨‍💻 Author
+---
 
-Gajendra Singh Panwar
+## 👨‍💻 Author
+
+**Gajendra Singh Panwar**  
 Aspiring Data Analyst
